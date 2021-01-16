@@ -13,5 +13,9 @@ namespace Metotlar
             Console.WriteLine("Sepete Eklendi");
         }
 
+        public void Ekle2 (string urunAdi, string aciklama)
+        {
+            Console.WriteLine("Sepete Eklendi: " + urunAdi);
+        }
     }
 }

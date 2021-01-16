@@ -23,12 +23,15 @@ namespace Metotlar
 
             }
 
-            
+            //encapsulation
 
             Console.WriteLine("---------Metotlar-----------");
 
             SepetManager sepetManager = new SepetManager();
             sepetManager.Ekle();
+
+            sepetManager.Ekle2("Muz");
+            sepetManager.Ekle2("Ayva");
         }
     }
 }
