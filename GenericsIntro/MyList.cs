@@ -27,6 +27,14 @@ namespace GenericsIntro
             items[items.Length - 1] = item;
         }
 
+        public T GetData(int index)
+        {
+            if (index >= 0 )
+                return items[index];
+            else
+                return default(T);
+        }
+
         public int Length { get { return items.Length; } }
     }
 }
