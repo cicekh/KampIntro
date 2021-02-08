@@ -17,9 +17,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{4801D8BA-AB07-483B-900A-5E9D242C2611}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{2C3F093C-B4F2-4004-B0C7-A3531487A40C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{2C3F093C-B4F2-4004-B0C7-A3531487A40C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP4", "OOP4\OOP4.csproj", "{6F846702-DF64-46BE-B5E9-AFC346ABEC2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP4", "OOP4\OOP4.csproj", "{6F846702-DF64-46BE-B5E9-AFC346ABEC2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomDictionary", "CustomDictionary\CustomDictionary.csproj", "{5AC5A873-1741-41E3-A0C5-FCCE812DAF1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{6F846702-DF64-46BE-B5E9-AFC346ABEC2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F846702-DF64-46BE-B5E9-AFC346ABEC2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F846702-DF64-46BE-B5E9-AFC346ABEC2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AC5A873-1741-41E3-A0C5-FCCE812DAF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AC5A873-1741-41E3-A0C5-FCCE812DAF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AC5A873-1741-41E3-A0C5-FCCE812DAF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AC5A873-1741-41E3-A0C5-FCCE812DAF1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
